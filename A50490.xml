@@ -1,0 +1,689 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The pastors valediction, or, A farewell sermon preached at Sepulchres, London / by Mr. Matthew Meade.</title>
+            <author>Mead, Matthew, 1630?-1699.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50490</idno>
+            <idno type="STC">Wing M1556</idno>
+            <idno type="STC">ESTC R9094</idno>
+            <idno type="EEBO-CITATION">12995134</idno>
+            <idno type="OCLC">ocm 12995134</idno>
+            <idno type="VID">96395</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50490)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96395)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 391:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The pastors valediction, or, A farewell sermon preached at Sepulchres, London / by Mr. Matthew Meade.</title>
+                  <author>Mead, Matthew, 1630?-1699.</author>
+               </titleStmt>
+               <extent>[4], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement on p. 24.</note>
+                  <note>Reproduction of original in Princeton University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Corinthians, 1st, I, 3 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Farewell sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96395:1"/>
+            <pb facs="tcp:96395:1"/>
+            <p>THE PASTORS VALEDICTION. OR, A Farewell Sermon, PREACHED AT SEPULCHRES, <hi>LONDON.</hi>
+            </p>
+            <p>
+               <hi>By Mr.</hi> MATTHEW MEADE.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1662.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:96395:2"/>
+            <pb facs="tcp:96395:2"/>
+            <head>To the READER.</head>
+            <opener>
+               <salute>Chriſtian Reader,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Shall not need to uſe any Epiſtola<g ref="char:EOLhyphen"/>ry Commendations of the Author, if ever any
+Preacher had both <hi>Urim</hi> and <hi>Thummim,</hi> the one in his Word, the other in his
+Example, unre<g ref="char:EOLhyphen"/>provable in his Doctrine, and unblama<g ref="char:EOLhyphen"/>ble in his Life, then this Excellent Di<g ref="char:EOLhyphen"/>vine
+<hi>Mr. Matth. Meade</hi> is the man, whoſe enſuing Notes being this Preach<g ref="char:EOLhyphen"/>ers laſt
+Valediction to his Congregation, a little before his Civil, though Voluntary Death, are here
+preſented to thy view.</p>
+            <p>But it may be God withdraws his ex<g ref="char:EOLhyphen"/>cellent Servants from his People, to admit them nearer to
+himſelf, that they may have none in Heaven but himſelf, and none in Earth beſide him.</p>
+            <pb facs="tcp:96395:3"/>
+            <p>The enſuing Sermon was taken by the carefull hand of a ready Writer, &amp; a very good Friend
+of the Reverend Authors, to prevent Abuſe by Imper<g ref="char:EOLhyphen"/>fect Copies, which we hear are comming forth
+and made Publick; We ſhall not mention the vaſt Difference betwixt Hearing and Reading, or the
+Power loſt in Printing, which words had in Delivering, neither how neatly they might have been
+Clothed by the Au<g ref="char:EOLhyphen"/>thor. All that we ſhall ſay is, thou haſt them in ſuch a dreſſe as
+they were clad with in their first delivery, and be they Read with as good Affection as they were
+Preached &amp; Heard, and through the Spirits Aſsistance, will not prove a dead Letter.</p>
+            <closer>
+               <salute>Farewell.</salute>
+               <signed>N. D.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:96395:3"/>
+            <head>The Paſtors Valediction. BEING The <hi>Farewell Sermon</hi> of Mr. <hi>Mat<g ref="char:EOLhyphen"/>thew Meade,</hi>
+late of <hi>Sepulchers,</hi> LONDON.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>1 COR. 1.3.</hi>
+                  </bibl>
+                  <p>Grace be unto you, and Peace from God our Father, and from our Lord Jeſus Chriſt.</p>
+               </q>
+            </epigraph>
+            <p>YOu will wonder, poſſibly, that I ſhould pitch on the Apoſtles Salutation for my
+Valediction, and make that the Concluſion of my Preaching, which he made the Beginning of his
+Writing, and therefore I have made a double Plea for it. I find that this was a form of
+Bleſſing peculiar to this Apoſtle both in the beginning and end of this Epiſtle; for as
+there is ſcarcely one Epiſtle but begins with it, ſo many end with it like wiſe: as in
+<hi>Eph.</hi> 6. <hi>ver. ult. The grace of our Lord Jeſus Chriſt be with your ſpirit.</hi>
+So in the 2<hi rend="sup">d</hi> of the <hi>Theſſalonians,</hi> the laſt verſe of the laſt Chapter, <hi>The
+grace of our Lord Christ be with you all:</hi> So that I finding the Apoſtle to uſe it
+frequently
+<pb n="2" facs="tcp:96395:4"/>at the beginning and ending of his Writing, I thought as I made it the matter of
+my prayer for you in the beginning, ſo I might make it my farewell to you in the ending; and
+therefore <hi>Grace be unto you and Peace from God our Father, and from our Lord Jeſus
+Chriſt.</hi>
+            </p>
+            <p>Beſides this, as <hi>Jacob</hi> ſaid to his <hi>Benjamin</hi> concer<g ref="char:EOLhyphen"/>ning his veniſon,
+when his Father asked him, <hi>How he found it ſo quickly?</hi> he Anſwered, <hi>becauſe the
+Lord thy God brought it to me:</hi> The ſame I may ſay of this Scripture, for Conſidering of
+what ſubject I ſhould ſpeak in my laſt Labours here among you, this Scip<g ref="char:EOLhyphen"/>ture came to my
+thoughts, and opening the Booke, came immediately to my ſight; and therefore I may ſay <hi>God
+brought it to me:</hi> Which I no ſooner looked upon, but methinks I ſaw the Apoſtle on Mount
+<hi>Geriſim,</hi> and his mouth filled with bleſſing; for what greater bleſſing can a man
+wiſh, then that which comprehends all bleſſings, and that is, <hi>Grace,</hi> and
+<hi>Peace.</hi> Being therefore now to part, I thought to go to the top of the Mount, and leave
+with you <hi>Grace,</hi> and <hi>Peace from God our Father, and from our Lord Je<g ref="char:EOLhyphen"/>ſus
+Chriſt.</hi> In which words there are two generalls.
+<list>
+                  <item>1. A double Bleſſing deſired,</item>
+                  <item>2. A double Spring diſcovered.</item>
+               </list>
+            </p>
+            <p n="1">1. A double Bleſſing deſired: and that is, Grace and Peace. Grace is of all
+Bleſſings the richeſt, Peace is of all Comforts the ſweeteſt: both theſe the Apoſtle
+beggs for the <hi>Corinthians,</hi> and ſo do I for <hi>You.</hi> Beloved, <hi>Grace be unto you,
+and Peace from God our Father, and from our Lord Jeſus Chriſt.</hi>
+            </p>
+            <p n="2">2. Here is a double fountain diſcovered: and that is the Father and the Son, God and
+Chriſt. The Fa<g ref="char:EOLhyphen"/>ther is called <hi>the God of Grace;</hi> the Son is called <hi>the
+<pb n="3" facs="tcp:96395:4"/>Prince of Peace,</hi> not that Grace is from the Father without Peace, nor Peace
+from the Son without Grace, but both Grace and Peace are from God the Father through the Lord
+Chriſt.</p>
+            <p>The Order of the words is worth noting, <hi>Grace be to you and Peace:</hi> Firſt Grace, then
+Peace, for there can be no Peace without Grace, nor Grace but there will be Peace, but there can be
+no true Peace but from God, nor from God but as he is a Father, not from God as a Father, but as
+our Father, and he can<g ref="char:EOLhyphen"/>not be ſaid to be our Father, but through our Lord Jeſus Chriſt; and
+therefore he ſaith, <hi>Grace be unto you, and Peace from God our Father through our Lord Jeſus
+Chriſt:</hi> both are manifeſt as a Golden Chain linked together, not Grace without Peace, nor
+Peace without Grace, but both conjoyned together, to cram the Believers Soul with Grace and Peace.
+Now from the Order of the words we might raiſe ſeverall Obſervations.
+<list>
+                  <item>1. That Peace is the fruit of Grace.</item>
+                  <item>2. That Grace and Peace are both from God.</item>
+                  <item>3. That Love which is the ſpring of Grace and Peace, is from God as a Father.</item>
+                  <item>4. That we ſhare not in this Love, but only as he is our Father: All is from
+propriety,</item>
+               </list>
+            </p>
+            <p>Firſt, <hi>Our Father,</hi> then <hi>Grace and Peace from God our Father.</hi>
+            </p>
+            <p n="5">5. That God is our Father only through Chriſt.</p>
+            <p>But before we draw any thing from the Text by way of Obſervation, we will ſpeak to the
+termes by way of Explication. <hi>Grace be to you:</hi> What is here meant by Grace? This is a
+ſweet word, it perfumes the Breath, it cheriſhes the Conſcience, it warms the
+<pb n="4" facs="tcp:96395:5"/>Heart, it raviſhes the Soul, as the Spouſe was raviſh<g ref="char:EOLhyphen"/>ed with the rayes of
+Chriſts glory, ſo Chriſt revives the Soul with one of his gracious rayes diſcovered to the
+Heart; Grace is the life of the Soul, thou art dead till Grace quickens thee, thou art loſt till
+Grace finds thee, undone till Grace ſaves thee; Grace is the <hi>Manna</hi> of Angels, the
+ſpiritual Bread which thoſe that are holy in being are nouriſhed with, and ſubſiſt by;
+Angels live on Grace, and ſtand by Grace; Man that ſhares in the Grace of God, is made fellow
+Communiors with Angels, eats Angels food, and ſhare in Angels bleſſings; Grace is the
+ſubſtance of the Scripture, the end of the Law, the fulneſſe of the Goſpel,
+<hi>Gregory</hi> calls it, the Heart and Soul of God; I am ſure Grace is the Heart and Soul of
+the Word; its a little word, but if comprehends all good; here is more then <hi>Homers Iliads</hi>
+in a Nut-ſhell, its the Epitome of all the good in Heaven and Earth; name any word that
+ſignifies good to the Soul here or here<g ref="char:EOLhyphen"/>after, but if it is found in the Index in this little
+word Grace; Grace comprehends Gods love to us, and our love to God; and as Gods love to us is the
+ſum of all Mercy, ſo our love to God is the ſum of all Duty; Grace is the new birth of the
+Soul, whereby it takes up another Nature, a new Nature, a ſpiritual God-like Nature; as Chriſt
+was born, and thereby took on him the Nature of man, and was made fleſh, ſo man is born by
+Grace, and thereby takes upon him the Nature of God, and is made Spirit; and here you have at once
+the great myſtery of Grace in the loweſt debacement of a Saviour, and the higheſt advancement
+of a Sinner; for the Lord Chriſt could not be more debaced then to be born, it was nothing
+<pb n="5" facs="tcp:96395:5"/>ſo great an abatement for Chriſt to dye, as for him to be born, for being
+once made man, it is no won<g ref="char:EOLhyphen"/>der for to dye, but being the great God, its a wonder that ever he
+ſhould be made man. Lo here is the de<g ref="char:EOLhyphen"/>bacement of Chriſt: Yet if he had been born to a Crown,
+to Honour, it had been ſomething, but he was born to ſhame, to ſorrow and death, but man by
+Grace is born to a Crown, to a Kingdom, he has a title to all the glory and bleſſedneſſe of
+Heaven, from the firſt moment of his new birth: So 'tis in the Text, <hi>Grace be unto you, and
+Peace.</hi>
+            </p>
+            <p>Peace in Scripture, is a very comprehenſive terms, it carries in it all happineſſe. It was
+the common greeting of the <hi>Jews, Peace be unto you;</hi> Thus <hi>David</hi> by his Proxy
+ſalutes <hi>Nabal, Peace be to thee and thy houſe,</hi> and the Apoſtle here alludes to this
+form of ſalutation, that he might mix new Teſtament mercy, to old Teſtament manners; he
+firſt ſtiles grace before peace; as <hi>Jacob</hi> did with his Veniſon, he made it a
+ſa<g ref="char:EOLhyphen"/>voury meat, ſuch as <hi>Iſaack</hi> loved. Peace is the glory of Heaven, in the Boſome
+of God, and brought into the world in the Arms of Angells; The firſt peace you read of in the
+Goſpel, was peace by the admini<g ref="char:EOLhyphen"/>ſtration of Angels. Luke 2.13, 14. <hi>And ſuddainly there
+was with the Angells, a multitude of Heavenly hoſt, praiſing and ſaying, Glory to God in the
+higheſt, and on Earth peace, good will towards men.</hi> And when our Lord Chriſt firſt
+ſent out his Diſciples, this was the Doctrine that he bid them preach, Math. 10.12, 13.
+<hi>When you come into a houſe, ſalute it, and if it be worthy, let grace, peace come upon
+it.</hi> Mark here by the way, our Lord Jeſus Chriſt is no enemy to good manners, He would not
+have Chriſtians to be Clowns: which is
+<pb n="6" facs="tcp:96395:6"/>the uſe of ſome among us, who would have their Re<g ref="char:EOLhyphen"/>ligion quarrell with good
+manners: No, but <hi>in what<g ref="char:EOLhyphen"/>ſoever City or Town you enter, ſalute it, and let grace, peace
+come upon it:</hi> that is, wiſh peace to them, ſay<g ref="char:EOLhyphen"/>ing, <hi>the peace of God be upon this
+place, upon the heads and hearts of all in it:</hi> So that Peace is both a Goſpel-ſalutation
+when Miniſters and people meet, and it's alſo a Goſpel-valediction when the Miniſter and
+the people parts. So did the Apoſtle, and ſo do I now, <hi>Grace be with you and
+peace.</hi>
+            </p>
+            <p>I obſerve in <hi>Matth.</hi> 10.13, 14. our Lord bids his Diſciples when they enter into a
+houſe, <hi>if the houſe be worthy, to let their peace come upon it, but if they be not worthy,
+let grace, peace return to you.</hi> In ſtead of lea<g ref="char:EOLhyphen"/>ving peace with them, to <hi>ſhake off the
+duſt of their feet againſt them:</hi> that is, to ſhew that God will ſhake them off as
+duſt, and tread them under feet as fuell. My Brethren, your diligent attendance on the Word at
+this place, hath comfortably prevented the part of my charge, <hi>to ſhake off the dust of my
+feet;</hi> for, how beautifull have the feet of a poor worm been to you, being ſhod with the
+preparation of the Goſpel of Chriſt? And therefore ſeeing our Lord Chriſt ſaith, <hi>if
+they be worthy of their peace abide with them,</hi> on this accompt I wiſh to you <hi>Grace and
+peace from God our Father, and from our Lord Jeſus Christ.</hi> But what is this peace? It's the
+beauty of Union, the harmony of the Creation, the pleaſure of Life, the feaſt of a good
+Conſcience; its that which makes Life ſweet, and Death eaſie: Peace ſweetens all our
+poſſeſſions, and all our afflictions; without this, the fullneſſe of the World is a
+burden; with this, poverty and emp<g ref="char:EOLhyphen"/>tineſſe is a pleaſant companion; without this, our
+<pb n="7" facs="tcp:96395:6"/>bread is gravelled with ſowreneſſe, and our water mingled with
+bitterneſſe; with this, green herbs be<g ref="char:EOLhyphen"/>come a Feaſt, and our Water is turned into Wine:
+Peace, its the moſt beautifull Creature in the world, and therefore its beloved of all, courted
+of all, ma<g ref="char:EOLhyphen"/>ny ſeek her, but few there be that enjoy her, they do not go the right way to find
+her: for, <hi>in the wayes of righteouſneſſe is peace.</hi> Peace is the ſeminary of all
+bleſſings Temporal, as Grace is of all bleſſings Spi<g ref="char:EOLhyphen"/>ritual: in Grace you have imployed all
+holineſſe, in Peace all happineſſe; in grace all inward, in peace all outward
+bleſſings: grace and peace are the <hi>Alpha</hi> and <hi>Omega</hi> of all Bleſſings, as
+God is of all Beings, no bleſſing comes before Grace, and no bleſſing laſts longer: Then
+ſee in this phraſe of ſpeech the Apo<g ref="char:EOLhyphen"/>ſtle wiſhes upon them, as I do upon you, all the
+bleſſings both of Time and Eternity, and yet he wiſh<g ref="char:EOLhyphen"/>ed no more to them then <hi>God</hi>
+promiſed to give them, 1 Tim. 4.8. <hi>For godlineſſe hath the promiſe of this life, and
+that which is to come, Grace be unto you and peace, &amp;c.</hi> not one without the other: though
+a man may have grace without peace, as in a time of diſertion or temptation, and a man may have
+peace without grace, as in a ſecure and unregenerate condition; grace without peace is often
+found in a troubled conſcience, and peace without grace is often found in a ſeared
+conſcience: as grace without peace is very uncom<g ref="char:EOLhyphen"/>fortable, ſo peace without grace is very
+unprofitable: like <hi>Rachel,</hi> beautifull, but barren; therefore the A<g ref="char:EOLhyphen"/>poſtle deſires ye
+ſhould have both grace and peace: and we ſay, the Sun and Salt are the moſt uſefull
+Creatures in the world; the one for ſhining, the other for ſeaſoning. (My Brethren) Grace and
+Peace are
+<pb n="8" facs="tcp:96395:7"/>the Chriſtians Sun and Salt, Grace is the light of their ſouls, and Peace is
+the ſavour of their comforts; Grace ſhines through all their faculties, and Peace ſeaſons
+all their mercies. The bleſſings of God are become as twins, as Chriſt ſaid of the
+Spouſe, <hi>Cant.</hi> 4.2. <hi>She is like a flock of ſheep that are even ſhorn, which came
+up from the waſhing, whereof every one bear twins, and none is barren among them:</hi> Grace and
+peace here are knit together by the Spirit of God in a ſacred knot not to be untied: As
+<hi>Caſtor</hi> and <hi>Pollux</hi> when ſeen together portend happineſſe to the Mariner:
+ſo when grace and peace are found in a Soul together, they portend the higheſt ſecurity and
+bleſſing to the Believer: they are ſaid in Scripture to be bound to<g ref="char:EOLhyphen"/>gether; where God gives
+the one, he never denyes the other. If he gives you the Upper Spring of grace, he will give you the
+Other Spring of peace, for they go both together. If he gives you the <hi>dew of heaven,</hi> you
+need not queſtion the <hi>fatneſſe of the earth.</hi> If his right hand be <hi>full of
+mercy,</hi> his left hand ſhall not be <hi>empty:</hi> Therefore <hi>Grace and Peace be with you
+from God the Father, and from our Lord Jeſus Chriſt.</hi>
+            </p>
+            <p>Grace has a double ſenſe, either for the grace of God to us, that juſtifies us, or the
+grace of God in us, that ſanctifies us: Now there is a diſtant peace flow<g ref="char:EOLhyphen"/>ing from each of
+theſe, but ſtill its grace and peace.</p>
+            <p>Firſt, juſtifying grace has a peace attending that, Rom. 5.1. <hi>Being justified by faith,
+we have peace with God.</hi> So far as we have confidence in juſtifying grace, there remains no
+conſcience of condemning ſin: As there can be no bitterer War, then between conſcience and
+the cure, ſo there can be no ſweeter peace, then when mercy and peace meet together,
+<pb n="9" facs="tcp:96395:7"/>and when conſcience and peace kiſſeth each other: The former is the taſt
+of Heaven, the latter is the per<g ref="char:EOLhyphen"/>ambulation of Heaven, both which the Believer ſhares in upon his
+Juſtification by Faith. If Chriſt had peace who was made our ſin, needs muſt the Believer
+have peace, who is made the righteouſneſſe of God in him.</p>
+            <p>Secondly, Sanctifying grace has a peace attending it, and this peace differs from the former, as
+the root from the fruit. The peace of Juſtification is a radical peace, the root of peace; but
+the peace of Sanctifi<g ref="char:EOLhyphen"/>cation is the bud, the bloſſom of the tree: the former flowes from the
+bloud of Chriſt ſprinkled on the Conſcience; the latter from the conformity that is between
+the Word and the will, between the com<g ref="char:EOLhyphen"/>mands and the Conſcience; <hi>As many as walk accor<g ref="char:EOLhyphen"/>ding
+to this rule, grace be unto them and peace,</hi> Gal. 6.16. So that peace is the fruit of
+Sanctifying grace. Now as the bloud of the Paſcal Lamb (which was a token of peace) was not to be
+ſtruck on the poſts of the <hi>E<g ref="char:EOLhyphen"/>gyptians,</hi> but upon the poſts of the
+<hi>Iſraelites,</hi> ſo neither is the bloud of ſprinkling, which brings perfect peace, to be
+ſtruck on the poſts of the carnal ſinner, but on the poſt of the true Believer, an
+<hi>Iſraelite</hi> indeed in whom there is no guile; no grace, no peace, that is Gods Law. How
+can a ſinner have pence in a ſtate of ſin, when God and Conſcience, when Word and
+Conſcience, when Law and Conſcience, and all the Attributes of <hi>God</hi> are againſt the
+ſinner? <hi>No peace ſaith my God, to the wicked.</hi> Pray mark that Chapter, it begins with
+the peace, and ends in no peace. In <hi>ver.</hi> 2. its ſaid, <hi>He ſhall enter into
+peace,</hi> that is, the righteous: In the laſt verſe, <hi>There is no peace to the
+<pb n="10" facs="tcp:96395:8"/>wicked.</hi> Its the ſtate of grace that's the only hate of peace. And thus I
+paſſe from the double grace deſi<g ref="char:EOLhyphen"/>red, grace and peace, to the double Fountain diſco<g ref="char:EOLhyphen"/>vered,
+God our Father, and our Lord Jeſus Chriſt.</p>
+            <p>But here's a Queſtion to be anſwered: <hi>If Grace and Peace be from God the Father, then
+how is it ſaid to be from Chriſt? and if from Chriſt, how then from God the Father?</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi> Its a known rule that the tranſient, exter<g ref="char:EOLhyphen"/>nal works of <hi>God</hi> are
+Attributed to all the 3. <hi>Perſons</hi> in the <hi>Trinity,</hi> the ſame works that are
+Attributed to the <hi>Father,</hi> are alſo attributed to the <hi>Son;</hi> and the ſame works
+attributed to the <hi>Son,</hi> is aſcribed alſo to the Father, ſo grace and peace are here
+aſcribed both to <hi>God</hi> the <hi>Father,</hi> and to our <hi>Lord Jeſus Chriſt;</hi>
+that is, they are both from mercy, and from merit.</p>
+            <p>From mercy on Gods part to us, from merits on Chriſts part for us; they are from <hi>God the
+Father,</hi> be<g ref="char:EOLhyphen"/>cauſe he wills them to us, from <hi>God the Son,</hi> becauſe he works them in
+us; they are from <hi>God</hi> to <hi>Chriſt,</hi> from <hi>Christ</hi> to <hi>Us;</hi> they are
+from <hi>God the Father</hi> ori<g ref="char:EOLhyphen"/>ginally, and from <hi>Chriſt</hi> derivatively, and to us
+actu<g ref="char:EOLhyphen"/>ally; <hi>God the Father</hi> is the fountain of all grace and peace, <hi>Chriſt</hi> as
+Mediator is the Conduit of all grace and peace, <hi>Man</hi> in Union to Chriſt, is the Ciſtern
+into which theſe ſtreams of grace and peace runs; <hi>God</hi> wills grace and peace to us, and
+<hi>Chriſt</hi> works them in us; <hi>God</hi> gives grace and peace to be applied to the
+Creature, this is from the love of the <hi>Father,</hi> but the Application of this peace to the
+Soul, is from the me<g ref="char:EOLhyphen"/>rit of <hi>Chriſt</hi> the <hi>Redeemer:</hi> Thus you ſee there's a
+double ſpring of this double bleſſing, Time will not ſerve me further: the only
+Obſervation is,</p>
+            <pb n="11" facs="tcp:96395:8"/>
+            <p>That all the grace and peace which believers ſhare in, is derived from <hi>God the
+Father,</hi> through our <hi>Lord Jeſus Christ:</hi> theſe three things opened, will clear
+this: Firſt, that grace and peace are the Believers pri<g ref="char:EOLhyphen"/>viledge: Secondly, that the fountain of
+this grace and peace is from <hi>God the Father:</hi> Thirdly, that it is not given out from
+<hi>God the Father,</hi> but through <hi>Chriſt.</hi>
+            </p>
+            <p>Firſt, that grace and peace are the Saints privi<g ref="char:EOLhyphen"/>ledge; If grace is, then peace is; But grace
+is the pri<g ref="char:EOLhyphen"/>viledge of every Believer, and that whether you look upon it as taken from the Love and
+Favour of God to us: This is the Believers priviledge, God can as well forget Chriſt at his right
+hand, as ceaſe his love and favour to the Soul of a Believer; The Believers title to all their
+bleſſings, ariſes out of this never-fail<g ref="char:EOLhyphen"/>ing Love of God: Or if you take grace for the fruit
+of Gods love to the ſoul, ſtill it falls to the Believers priviledge; Vocation,
+Juſtification, Adoption, pru<g ref="char:EOLhyphen"/>dence of Sin, purging from Sins, ſtrength againſt Sin,
+Holyneſſe, Love, Faith, Obedience, Perſeverence, all theſe are the priviledges of every
+Believer, nay a man cannot be a Believer without any one of them, they are as eſſentiall to the
+being of a Chriſtian, as reaſon to the being of a man.</p>
+            <p>Secondly, as grace, ſo peace is the Believers privi<g ref="char:EOLhyphen"/>ledge; There is peace External, peace
+Supernal, peace Internal, and peace Eternal: There is peace External, this is peace with men; there
+is peace Supernal, that is peace with God; there is peace In<g ref="char:EOLhyphen"/>ternal, that is peace with
+Conſcience: All theſe three are to be had upon Earth, and then there's peace E<g ref="char:EOLhyphen"/>ternal, and that
+is only to be had in Heaven. The Apoſtle here doth not exclude the former, but chief<g ref="char:EOLhyphen"/>ly
+<pb n="12" facs="tcp:96395:9"/>intends the latter: peace with man is a good thing to be deſired, but peace
+with God, and Conſcience, is much more to be deſired. Peace with God is the ſpring of all
+things both within and without, both be<g ref="char:EOLhyphen"/>low and above, both in time and eternity: ſo ſayes
+<hi>Job, If he gives peace, who then can make trouble?</hi> Now this peace is the Saints privilege.
+It is a Legacy left to every Believer by the laſt Will and Teſtament of a dying Redeemer. Will
+you ſee a copy of his Will, then look in <hi>John</hi> 14.27. <hi>Peace I leave with you, my
+peace I give unto you: not as the world giveth give I unto you.</hi> There is it ſeems a peace in
+the worlds power to give, and there's a peace of Chriſt's be<g ref="char:EOLhyphen"/>ſtowing. Now Chriſt would have
+us here not to miſtake the world's peace for his, for the difference is very great; for firſt,
+the worlds peace is a falſe peace, it is a counterfeit coyn, it han't the currant ſtamp of
+Heaven on it; but the peace that Chriſt gives to a Believer, is true peace, and perfect peace;
+<hi>Thou wilt keep in perfect peace whoſe minde is ſtayed on thee.</hi>
+            </p>
+            <p>Secondly, the Worlds peace is an outward peace. It is but skin deep, it wets the mouth, it
+cannot waſh the heart: <hi>Prov.</hi> 14.13. <hi>In laughter the heart is ſor<g ref="char:EOLhyphen"/>rowfull, and the
+end of the mirth is heavineſſe.</hi> The worlds peace in but the ſhell of peace, their
+Conſci<g ref="char:EOLhyphen"/>ence lowers when their Conſcience laughs; But the peace that Chriſt gives is an inward
+and ſpiritual peace, <hi>Pſal.</hi> 4.7. <hi>Thou haſt put gladneſſe in my heart, more
+then in the time that their corn and their wine in<g ref="char:EOLhyphen"/>creaſed;</hi> [<hi>Thou haſt put
+gladneſſe in my heart;</hi> Peace is that gladneſſe, other peace ſmothes the brow, but
+this fills the breaſt: as the Sinner has trouble within,
+<pb n="13" facs="tcp:96395:9"/>in the midſt of all his Peace without, ſo a Believer has Peace within, in
+the midſt of all his troubles without: <hi>In the world you ſhall have trouble, but in me you
+ſhall have Peace.</hi>
+            </p>
+            <p>Thirdly, the Worlds peace has only a neather Spring ariſing out of the Creature, out of
+worldly comforts, therefore it muſt needs be unclean, <hi>for an unclean Fountain cannot bring
+forth clean water:</hi> But the peace of Chriſtians has an upper Spring, it flows from the
+manifeſtation of the love of God in Chriſt, its from the ſprinkling of Chriſts Blood on the
+Con<g ref="char:EOLhyphen"/>ſcience, it flows upon the workings of Chriſts Spi<g ref="char:EOLhyphen"/>rit upon the Soul, which is firſt a
+Councellor, then a Comforter: Oh how pure muſt this peace be in a Believes Soul, that flows from
+ſo pure a Spring?</p>
+            <p>Fourthly, the Worlds peace is a peace given to Sinners, it is a peace in ſin, and its a peace
+with ſin, as the Prophet <hi>Iſaiah</hi> tells us, <hi>Its a Covenant with Hell, and an
+Agreement with Death,</hi> (God deliver us from that peace.) Again, Chriſts peace is given to
+none but Believers, its their priviledge only, a Stranger dont intermeddle with this Joy, Prov.
+14.10. <hi>The heart knoweth his own bitterneſſe, but a Stranger doth not intermeddle with this
+Joy.</hi>
+            </p>
+            <p>Fifthly, the Worlds peace is a fading, dying, tran<g ref="char:EOLhyphen"/>ſitory thing, it withers in the Sand,
+<hi>The triumphing of the Wicked is but ſhort, and the Joy of the Hypocrite is but for a moment,
+Job</hi> 20.5. <hi>Solomon</hi> does elegantly liken it to the <hi>crackling of Thornes under a
+Pot,</hi> which is but a blaze and is gone, <hi>Ecceſ.</hi> 7.6. So is the Sin<g ref="char:EOLhyphen"/>ners peace, it is
+for a Spurt, and is ſoon gone, but the peace that Chriſt gives to Believers, is a durable and
+abiding peace: Your Joy no man ſhall take from
+<pb n="14" facs="tcp:96395:10"/>you, it appears in Life, in Death, and after Death: Firſt, its our peace in
+Life, grace brings forth preſent peace. Its ſaid of the Primitive Chriſtians, <hi>They walked
+in the Fear of the Lord, and in the Comforts of the Holy Ghoſt, Acts</hi> 9.31. Its a remarkable
+expreſſi<g ref="char:EOLhyphen"/>on, <hi>Pſalm.</hi> 19.11. <hi>In keeping thy commands there's great reward,</hi> He
+dont ſay, for keeping them, which reſpects the end of the Work, but in keeping of them which
+look at the Work it ſelf; (My Brethren) Every duty done in ſincerity, reflects a peace in
+con<g ref="char:EOLhyphen"/>ſcience, as every flower carries its own ſweetneſſe; Its poſſible, I grant a
+Believer may not allwayes find and feel this peace, few do, ſome ſeldome find it, few find it
+ſo alwayes; the remains of corruption breaking forth to interrupt, or temptations to hinder: And
+Gods diſertion may darken and hide it, and a Believer may ſeem to be totally loſt, yet in
+this con<g ref="char:EOLhyphen"/>dition, which is the worſt a Child of God can be in, he hath a double peace. Firſt, a
+peace in the promi<g ref="char:EOLhyphen"/>ſes in this very Condition, and what you have in Bonds and Bills, you account
+as good as money in your Pockets. Secondly, he has it in the ſeed, <hi>Light is ſown for the
+righteous, and gladneſſe for the upright in heart,</hi> Pſal. 97.11. Grace is the ſeed of
+Peace, which Chriſt has ſoon in the furrows of the Soul, and there<g ref="char:EOLhyphen"/>fore peace ſhall Spring
+out of the furrows of the Soul; indeed this ſeed ſprings up ſooner in ſome, then in
+o<g ref="char:EOLhyphen"/>thers, yet every Saint ſhall have a reaping time ſoon<g ref="char:EOLhyphen"/>er or later, Pſal. 126.6. <hi>He that
+goeth forth and weep<g ref="char:EOLhyphen"/>eth, bearing precious ſeed, ſhall doubtleſſe come again with
+rejoycing, bringing his ſheaves with him:</hi> If he ſtayes long for the fruit, he ſhall have
+a greater crop at laſt, if he reaps not now, he ſhall be ſure to reap
+<pb n="15" facs="tcp:96395:10"/>hereafter; Pſal. 37.37. <hi>Mark the perfect man, and behold the upright, for
+the end of that man is peace.</hi> Se<g ref="char:EOLhyphen"/>condly, by this peace which is the peace of a Child of God,
+its a peace at Death; Grace will miniſter to us then, and that miniſtration ſhall be in
+peace: The Sinners peace leaves him when he comes to the Grave; though in Life it fills him, yet in
+Death it leaves him. A Believer has a two fold ſpring of Peace, the firſt is from above him,
+the other is from within him: That ſpring that runs with peace above him, is from the bloud of
+Chriſt, ſprinkled on his Conſcience; The other that is from within him, is from the
+ſincerity of his heart, in the wayes of obe<g ref="char:EOLhyphen"/>dience. My Brethren, when we lye on our Death beds,
+and can reflect on our ſincerity in all Gods wayes, this will be peace at laſt, ſo it was in
+<hi>Hezekiah,</hi> Iſaiah 38.3. <hi>Remember now, O Lord, I beſeech thee, how I have walked
+before thee in truth, and with a per<g ref="char:EOLhyphen"/>fect heart, and have done that which was good in thy
+fight.</hi> There's nothing makes a Death bed ſo hard, and ſo uneaſie, as a life ſpent in
+the ſervice of ſin and luſt; and nothing makes a Death bed ſo pleaſant, as a life ſpent
+in the ſervice of Chriſt. Grace will bring forth Peace, if not in this life, yet; Thirdly, it
+will to be ſure after Death; if Time brings not this fruit to ripeneſſe, yet Eternity
+ſhall; Grace in Time, will be Glory in Eternity; Holineſſe now, will be Hap<g ref="char:EOLhyphen"/>pineſs then;
+whatever it is a man ſows in this world, that he reaps in the next world: <hi>Be not deceived,
+God is not mocked; for whatſoever a man ſoweth, that ſhall he alſo reape: He that ſoweth
+to the fleſh, ſhall of the fleſh reape corruption; but he that ſoweth to the Spirit,
+ſhall of the Spirit reape life everlaſting,</hi> Gal. 6.7, 8. When
+<pb n="16" facs="tcp:96395:11"/>
+               <hi>Sin</hi> ſhall end in ſorrow and miſery, <hi>Grace</hi> ſhall end
+in peace, in joy, in glory; <hi>well done thou good and faith<g ref="char:EOLhyphen"/>full Servant, enter into the joy of
+thy Maſter,</hi> Mat. 15.21. Whoever ſhares in the grace of Chriſt in this world, ſhall be
+ſure to ſhare with the joy of Chriſt in the next world, and that joy is joy unſpeakable,
+and full of glory. I will wynde up all in a threefold Applica<g ref="char:EOLhyphen"/>tion, by way of Exhortation to three
+ſorts of perſons.
+<list>
+                  <item>Firſt, To ſuch as have this Grace and Peace.</item>
+                  <item>Secondly, To ſuch as have this Grace and no Peace.</item>
+                  <item>Thirdly, To ſuch as have neither Grace nor Peace.</item>
+               </list>
+            </p>
+            <p>Firſt, To ſuch as have both Grace and Peace; I'le ſpeak to them in two or three things.
+Firſt, Admire thankfully the Father and the Son, the Fathers Grace, and the Sons Love, for both
+had a hand in this, therefore bleſſe both the Father for willing it to us, and the Son for
+working it in us: Grace and Peace are the fruits of Gods Eternal Election, for this bleſſing
+the Father gives but the Application of it, to us is the fruit of Chriſts Redemption and
+Inter<g ref="char:EOLhyphen"/>ceſſion: How can you think of Hell and damnation, and ſee your ſelf freed from it?
+And how can you think of the dreadfull fury and vengeance of God, your ſelf not under it? How can
+you look on your ſtate changed, your hearts renued, grace ratified and reconciled, and your
+Conſcience quietted? How can you think of theſe things, but muſt admire the love of the
+Father in giving this to you, and the love of the Son in purchaſing this for you? All the grace
+and mercy that is given to us, is by Chriſt purchaſed for us: Grace and Peace are the fruits of
+the re<g ref="char:EOLhyphen"/>deeming
+<pb n="17" facs="tcp:96395:11"/>blood of Chriſt purchaſed.</p>
+            <p>Secondly, Do not envy the conditions or poſſeſſi<g ref="char:EOLhyphen"/>ons of the men of the world; they have
+Riches and Honours, Profits and Pleaſures, but they neither have Grace nor Peace, therefore do
+not envy their happineſſe. There is a ſtory of a <hi>Romane</hi> that was condemned by the
+Court Martial to dye for break<g ref="char:EOLhyphen"/>ing his rank to ſteal a bunch a grapes; and as he was going to his
+Execution, his fellow Souldiers laughed at him, and others envyed at him, that he ſhould have
+grapes and they none: Now, (ſayes he) do not envy me for my bunch of grapes, for you would be
+loath to have them at the rate I muſt pay for them. (My Brethren) You that are the Children of
+grace and peace, dont envy at the men of the world, at their Riches, their Comforts, their
+Pleaſures, for I am ſure you would be loath to have them at the price they pay for them, for
+the end of theſe things are Death.</p>
+            <p>Thirdly, Don't complain of the worſt condition that the providence of God ſhall caſt you
+into; in this world it may be you ſhall ſuffer hard things, but remember, ſo long as thy
+ſoul is ſecure, never com<g ref="char:EOLhyphen"/>plain of hard things. (My Brethren) As <hi>God</hi> your
+<hi>Father</hi> brought you into a ſtate of grace and peace, and thereby ſecured his love to
+your ſouls in Chriſt, can you complain of hard things? So let the joy of the Lord be your
+ſtrength; <hi>Rejoyce in the Lord al<g ref="char:EOLhyphen"/>wayes, and again I ſay rejoyce,</hi> Phil. 4.4.</p>
+            <p>The ſecond Uſe is to ſuch as have neither Grace nor Peace: May I not ſay, I ſpeak to
+many ſuch? I would I might not; Are not there many that are without Grace, and therefore muſt
+needs be with<g ref="char:EOLhyphen"/>out
+<pb n="18" facs="tcp:96395:12"/>Peace? They may have the worlds Peace, but they have none of this Peace; let me
+beg of you to get out of this graceleſſe condition; if you love your Souls don't live one day,
+nor one hour, nor one moment longer in a graceleſſe ſtate. Oh that you would believe the
+words of a dying man, for ſo I am to you, and ſuch words uſe to be remembred. Oh remember
+this as a teſtimony I leave with you, that the love of <hi>Sin,</hi> and lack of <hi>Grace</hi>
+will run and de<g ref="char:EOLhyphen"/>ſtroy every Soul at laſt: But you will ſay, <hi>How ſhall I get a ſhare
+in this Grace and Peace?</hi>
+            </p>
+            <p>I Anſwer, Firſt, Break off all your falſe peace, you can never have true peace with God,
+when we con<g ref="char:EOLhyphen"/>tent our ſelves with falſe peace; you will never ſeek that peace which Chriſt
+has purchaſed for you, while you content your ſelves with that curſed peace which the Old Man
+has wrought in you: Oh therefore break off all falſe peace, which is not the fruit of grace.</p>
+            <p>Secondly, Labour to ſee and be convinced of the miſerable, and of the naked condition your
+Souls be in for want of the righteouſneſſe of Chriſt for a co<g ref="char:EOLhyphen"/>vering, without this Soul
+thou art miſerable, wretch<g ref="char:EOLhyphen"/>ed, poor and naked; be convinced alſo what a mi<g ref="char:EOLhyphen"/>ſerable thing it
+is to have <hi>God</hi> our Enemy; <hi>God</hi> is the Sinners Enemy; its a featfull thing to fall
+into the hands of the living God: Oh be convinced of thy nakedneſſe, without Chriſts
+righteouſneſſe, and thy emptineſſe without his fullneſſe.</p>
+            <p>Thirdly, Labour to go out of your ſelves to Chriſt, for grace and peace, ſurely in the
+Lord ſhall one ſay, I have righteouſneſſe and ſtrength, I there its to be found. Labour
+for a thirſty frame of Soul, for the
+<pb n="19" facs="tcp:96395:12"/>promiſes run farr to ſuch, <hi>that he will fill the hungry with good
+things.</hi> Go to Chriſt ſoul, begg, pray, ne<g ref="char:EOLhyphen"/>ver leave God till he hath given thee an
+intereſt in Chriſt, <hi>for none can come to me except the father draw him;</hi> there is no
+pardon for the leaſt ſin our of Chriſt, but there is a pardon for the greateſt ſin in
+Chriſt, one ſin will damn the ſoul out of Chriſt, but no ſin can hurt the ſoul in
+Chriſt. Oh go to Chriſt ſoul, never give reſt to thy eyes, nor ſlumber to thy lidds, till
+thou haſt made peace with God in the bloud of Chriſt, one ſting of the fiery Serpent was
+mortal, without look<g ref="char:EOLhyphen"/>ing upon the brazen Serpent. So one ſin will damn a ſoul out of Chriſt,
+but no ſin can damn a ſoul in Chriſt.</p>
+            <p>Thirdly, To ſuch as have grace, but no ſenſe of peace, this is the counſell I would
+leave with all ſuch, Be much in the exerciſe of grace, frame much, believe much, uſe grace
+much, for the exerciſe and improving of grace will produce peace: There are ten duties which are
+to be the ſphere of grace in activity<g ref="char:punc">▪</g> and in performing of them, we ſhall have peace;
+Firſt, make Religion your buſineſſe, the main deſign of your lives, be Chriſtians to
+purpoſe, be not only Chriſti<g ref="char:EOLhyphen"/>ans by the bye, but <hi>let your converſations be as becometh
+the Goſpel of Chriſt. Phil.</hi> 1.27.</p>
+            <p>Secondly, Put forth renewed Acts of Faith on Chriſt every day, and remember its as much your
+duty to believe in Chriſt to day, as if you had never believed before. Oh live by Faith every
+day, and this will bring peace to you.</p>
+            <p>Thirdly, Maintain a conſtant communion with God daily, this communion with God is mans chief
+good; the happineſſe of a Child is in communion
+<pb n="20" facs="tcp:96395:13"/>with his Father, and the happineſſe of a Wife is in communion with her
+Husband, and this is the hap<g ref="char:EOLhyphen"/>pineſſe of a Believers ſoul, communion with God the Father,
+through Chriſt our Head and Husband: The ſeed of peace, its true, it is ſown in the Soul in
+Union, but then if takes root downward, and brings forth fruit upward: Spiritual peace will never
+be obtained, if communion with <hi>God</hi> be not maintain<g ref="char:EOLhyphen"/>ed; that gives comfort in the midſt
+of all ſorrows, and ſatifies all doubts, and recompences all wants. Lo this is the fruit of
+communion with <hi>God.</hi>
+            </p>
+            <p>Fourthly, Be good at all times, but of all be beſt in bad times; many Chriſtians loſe
+their peace, by re<g ref="char:EOLhyphen"/>mitting of their grace, and let looſe their reines of Re<g ref="char:EOLhyphen"/>ligion, to avoid the
+cenſures of a crooked generation. A Chriſtians zeal ſhould be like the Winter fire, that
+burns the hotteſt when the Aire is cooleſt; or like the Lilly, that looketh beautifull though
+among Thorns, ſo ſhould a Child of God though among Sinners.</p>
+            <p>Fifthly, In all conditions, chuſe Suffering rather then Sinning; If ever you would have Peace,
+choſe Suffering rather then Sinning; he that values Peace with God, or Peace with Conſcience,
+he muſt make this his choyce: thus <hi>Daniel</hi> rather choſed to be caſt to Lions, then to
+loſe the Peace of his Conſci<g ref="char:EOLhyphen"/>ence; the three Children choſe rather to burn in the Furnace,
+then to bow to the Image: One ſaid, <hi>He would rather go to Hell free from ſin, then to live
+in Heaven with guilt on his Conſcience.</hi> (My Brethren) let me a little inlarge, becauſe
+ſuffering may overtake us, for Perſecution is the genius of the Goſpel, there<g ref="char:EOLhyphen"/>fore let me
+leave four ſhort Rules with you concern<g ref="char:EOLhyphen"/>ing ſufferings.</p>
+            <pb n="21" facs="tcp:96395:13"/>
+            <p>See that your Cauſe be good, your Call be clear your Spirit meek, and your End right.
+Suffering can<g ref="char:EOLhyphen"/>not bring out peace without either of them, but with them all our ſufferings
+ſhall be peace.</p>
+            <p>Firſt, Let your cauſe be good, its not the bloud, but the Cauſe that makes a Martyr; its
+not for every cauſe a Chriſtian ſhould engage to ſuffer: every cauſe will no more bear
+ſuffering, then every little ſtream will bear a ſhip; nor will Chriſt let go
+ſweetneſſe to every ſuffering, 1 Pet. 4.15. <hi>Let none of you ſuffer as a Murderer, or
+as a Thief, or as an Evil doer, or as a bu<g ref="char:EOLhyphen"/>ſie body in other mens matters.</hi> To ſuffer this
+is neither Chriſtian-like, nor comfortable. Some ſuffer rather as Malefactors, then as
+Chriſts Martyrs.</p>
+            <p>Secondly, Let your call be clear; its not amiſſe to have a good cauſe without a call: Some
+may ſuffer for the cauſe of God, and yet ſin in ſuffering, for want of a call. Chriſt
+calls not all to ſuffer: to ſome it is given, to others it is not. If thy call be clear, thy
+peace will be ſweet, though thy ſufferings be never ſo great. But you will ſay, How ſhall
+I know when I am called to ſuffer?</p>
+            <p>I Anſwer Firſt, when Truth ſuffers by our ſilence, then are we called to ſuffer.</p>
+            <p>Secondly, when our lives will be the denyal of Chriſt, then are we called to deny our lives
+for Chriſt.</p>
+            <p>Thirdly, when ſin and ſuffering ſurrounds us that we cannot get out, but we muſt either
+run through ſin or ſufferings, then I may ſafely conclude that Chriſt cal<g ref="char:EOLhyphen"/>leth me to
+ſuffer, and in this cauſe we may expect the peace and ſweetneſs of his preſence.</p>
+            <p>Thirdly, the third Direction for ſuffering is this: our Spirit muſt be meek, ſo was
+Chriſt, he went as a Lamb to the ſlaughter.</p>
+            <pb n="22" facs="tcp:96395:14"/>
+            <p>Its poſſible a man may be right in his cauſe, and yet ſinfull in his carriage; and if
+ſo, no wonder if Chriſt be not ſweet to us. To be fierce, and raging, and re<g ref="char:EOLhyphen"/>viling in
+ſuffering, its not becomming humanity, and therefore much leſs like Chriſtianity. A
+Chriſtian ſhould be like Chriſt, Acts 5.41. <hi>And they departed from the preſence of the
+Council, rejoycing that they were connted worthy to ſuffer ſhame for his name.</hi> It becomes
+thoſe that are found in the Spirit, to give bleſſing for curſing; the more of Chriſts
+ſpirit is in us in our ſuf<g ref="char:EOLhyphen"/>ferings, the more comfort and joy we ſhall receive from our
+ſufferings.</p>
+            <p>Fourthly, See that your end in ſuffering be right, if it be ſelf, or ſingular, or
+ſchiſm, then Chriſt cannot be ſweet to thee. Some have died that their ends live.
+<hi>Socrates</hi> died in the defence of the truth, and to prove that there is but one God, but
+whether he di<g ref="char:EOLhyphen"/>ed for honour, applauſe, or for Gods ſake, I think it is no hard thing to
+determin. But let thy cauſe be good, thy Call clear, thy Spirit meek, and thy end right, and then
+you ſhall have peace in all your ſuffe<g ref="char:EOLhyphen"/>rings, that is the 5th thing. Chooſe ſuffering
+rather then ſinning.</p>
+            <p>Sixthly, If you would have peace, be much in ſtudying of the Scriptures: for as God is the God
+of peace, and Chriſt is the Prince of peace, ſo the Goſ<g ref="char:EOLhyphen"/>pel is the Goſpel of peace, which
+God hath given thee to lead thee into the wayes of peace. <hi>Great peace have they that love thy
+lawes.</hi>
+            </p>
+            <p>Seventhly, Take heed of Apoſtacy, either in do<g ref="char:EOLhyphen"/>ctrin or principles. Though a beleever is freed
+from Apoſtacy in the ſtate of grace, yet he is not freed from Apoſtacy in the degrees of
+grace. He may fall ſin<g ref="char:EOLhyphen"/>fully,
+<pb n="23" facs="tcp:96395:14"/>though he cannot fall finally. <hi>Demas</hi> fell by one, St. <hi>Peter</hi>
+by the other. Pray with <hi>David,</hi> Pſalm 17.5. <hi>Hold up my goings in thy path, that my
+footſteps ſlip not.</hi>
+            </p>
+            <p>Eightly, Make the word of God your rule in all things, be ſure you have a Scripture warrant
+for all your practiſes. But eſpecially keep cloſe to Scripture in matters of Gods
+worſhip.</p>
+            <p>There are endleſſe diſcourſes about the Mode of <hi>Gods</hi> Worſhip; I have no
+diſputing time. It is good in difficult caſes, all wayes to take the ſureſt ſide, (for
+inſtance) if I follow the Traditions of man, for the worſhip of <hi>God,</hi> I may ſin, but
+if I keep cloſe to die directions of <hi>God</hi> in the Scripture, I am ſure I cannot ſin,
+for this is the ſure word of Prophe<g ref="char:EOLhyphen"/>cy, to which you do well to take heed, therefore in ſuch a
+doubtfull caſe, <hi>Gods</hi> will is, that we take the ſureſt ſide; go to the Law and to
+the Teſtament; Labour to be fruitfull and grounded Chriſtians.</p>
+            <p>Ninthly, Keep up the power of godlineſſe, do not let Religion down into a lifeleſſe
+formality: <hi>The righteous ſhall flouriſh like a Palm tree: He ſhall grow like a Cedar in
+Lebanon, thoſe that be planted in the houſe of the Lord, ſhall flouriſh in the Courts of
+our God, Pſal.</hi> 92.12, 13. My Brethren, it is as much a duty in them that have grace, to
+improve it, as for them that haue no grace, for to get it. If you fit under the daily means, the
+daily waterings of <hi>God,</hi> and do not grow; do you think this will be peace in the latter
+end, ſure<g ref="char:EOLhyphen"/>ly no (my Brethren) your fruitfullneſs under the Goſpel is of very great
+concernment. It is unfruit<g ref="char:EOLhyphen"/>fullneſs that makes <hi>God</hi> lay his <hi>Vineyard waste.</hi> Its
+unfruitfullneſs that procures the forwarding your ac<g ref="char:EOLhyphen"/>compt in the day of grace.</p>
+            <pb n="24" facs="tcp:96395:15"/>
+            <p>Tenthly, obſerve that excellent rule of the Apo<g ref="char:EOLhyphen"/>ſtle in <hi>Phil</hi> 4.8. <hi>Finally,
+brethren, whatſoever things are true, whatſoever things are houest, whatſoever things are
+juſt, whatſoever things are pure, whatſoever things are lovely, whatſoever things are of
+good report, if there be any virtue, and if there be any praiſe, think on theſe things.</hi>
+And now, my Brethren, I commend you to <hi>God,</hi> and to the <hi>Word of God,</hi> that is
+infinitely able to make you wiſe to ſalvation, with this Benediction, which I ſhall make my
+Valediction, <hi>Grace be unto you, and peace from God our Father, and from our Lord Jeſus
+Chriſt.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="notice">
+            <head>ADVERTISEMENT.</head>
+            <p>The God People, among whom the Name of this Excellent man is deſervedly precious, may take
+no<g ref="char:EOLhyphen"/>tice, that his laſt Sermon upon the five a Clock Lec<g ref="char:EOLhyphen"/>ture at <hi>Sepulchres,</hi> will
+ſuddainly be Publiſhed for their Uſe: Who hold the words of Gods Patience in the Hour of
+Temptation, that is come upon the whole Earth.</p>
+            <pb facs="tcp:96395:15" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
